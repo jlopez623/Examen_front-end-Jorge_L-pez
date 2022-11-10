@@ -1,7 +1,7 @@
 import React from 'react'
 import data from './data.json'
 import Post from './Post'
-import second from './Post'
+
 
 // Debemos importar el listado de objetos del archivo JSON para usarlos como array a la hora de crear cada Item.
 // El componente Posteos es el padre de:
